@@ -1,0 +1,4 @@
+# south
+south:
+  schedule:
+    fixedRate: 1000
